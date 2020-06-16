@@ -36,6 +36,9 @@ A API foi construída durante o **Bootcamp GoStack** realizado pela [Rocketseat]
 
   ## Back-end / API
   $ npm run dev / yarn dev
+
+  ## Executar test
+  $ npm run test / yarn test
 ```
 <a id="criterios"></a>
 
