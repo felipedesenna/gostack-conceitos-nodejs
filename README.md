@@ -32,7 +32,7 @@ A API foi construída durante o **Bootcamp GoStack** realizado pela [Rocketseat]
 
 ```sh
   # Instale as dependências de cada aplicação do projeto
-  $ npm install / yarn install
+  $ npm install / yarn
 
   ## Back-end / API
   $ npm run dev / yarn dev
